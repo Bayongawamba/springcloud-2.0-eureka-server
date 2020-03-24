@@ -1,9 +1,9 @@
 server:
-  port:8100
+  port: 8100
 eureka:
   instance:
     ###注册中心ip地址
-   hostname:127.0.0.1
+    hostname: 127.0.0.1
   client:
     serviceUrl:
       ###注册地址
